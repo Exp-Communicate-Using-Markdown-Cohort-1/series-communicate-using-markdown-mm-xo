@@ -14,3 +14,6 @@ player2 = PlayerCharacter("MMXO", 20)
 print(f"{player1.name} is {player1.age} years old")
 print(player2.age)
 ```
+- [ ] play valorant
+- [ ] finish github education
+- [ ] update about me
